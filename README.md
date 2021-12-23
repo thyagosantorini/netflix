@@ -2,4 +2,4 @@
 
 Recriando a Interface do Netflix
 
-![alt text](https://github.com/thyagosantorini/digital-innovation-one/blob/main/netflix-clone/img/print.png)
+![alt text](https://github.com/thyagosantorini/netflix/blob/main/img/print.png)
